@@ -12,7 +12,7 @@ The page includes:
 - **Contact form** integrated with Formspree, showing a message after submission  
 - **Terms & Conditions** page  
 - Modern and responsive design  
-- Minimal use of JavaScript (if any, used for the contact form)
+- Minimal use of JavaScript 
 
 The project is a **work in progress**, so future updates and additional features are possible.
 
@@ -21,4 +21,4 @@ The project is a **work in progress**, so future updates and additional features
 - HTML5  
 - Tailwind CSS  
 - Formspree (for the contact form)  
-- (Optional) JavaScript
+
